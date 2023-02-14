@@ -1,0 +1,14 @@
+539e4fa6f20ae01210606c25ad3a8195
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.sum = void 0;
+var sum = function sum(arr) {
+  return arr.reduce(function (acc, n) {
+    return acc + n;
+  }, 0);
+};
+exports.sum = sum;
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJuYW1lcyI6WyJzdW0iLCJhcnIiLCJyZWR1Y2UiLCJhY2MiLCJuIl0sInNvdXJjZXMiOlsiaW5kZXguanMiXSwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGNvbnN0IHN1bSA9IGFyciA9PiBhcnIucmVkdWNlKChhY2MsIG4pID0+IGFjYyArIG4sIDApO1xuIl0sIm1hcHBpbmdzIjoiOzs7Ozs7QUFBTyxJQUFNQSxHQUFHLEdBQUcsU0FBTkEsR0FBRyxDQUFHQyxHQUFHO0VBQUEsT0FBSUEsR0FBRyxDQUFDQyxNQUFNLENBQUMsVUFBQ0MsR0FBRyxFQUFFQyxDQUFDO0lBQUEsT0FBS0QsR0FBRyxHQUFHQyxDQUFDO0VBQUEsR0FBRSxDQUFDLENBQUM7QUFBQTtBQUFDIn0=

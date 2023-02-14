@@ -1,0 +1,1 @@
+{"version":3,"names":["sum","arr","reduce","acc","n"],"sources":["index.js"],"sourcesContent":["export const sum = arr => arr.reduce((acc, n) => acc + n, 0);\n"],"mappings":";;;;;;AAAO,IAAMA,GAAG,GAAG,SAANA,GAAG,CAAGC,GAAG;EAAA,OAAIA,GAAG,CAACC,MAAM,CAAC,UAACC,GAAG,EAAEC,CAAC;IAAA,OAAKD,GAAG,GAAGC,CAAC;EAAA,GAAE,CAAC,CAAC;AAAA;AAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"names":[],"sources":["index.js"],"sourcesContent":["export { Row, Rows } from './components/rows';\nexport { Col, Cols } from './components/cols';\nexport { Table, TableWrapper } from './components/table';\nexport { Cell } from './components/cell';\n"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AACA;AACA;AACA"}

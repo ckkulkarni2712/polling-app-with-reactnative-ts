@@ -1,0 +1,23 @@
+2c6aa06e6214b139c657fd5e12ce3afe
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports["default"] = void 0;
+Object.defineProperty(exports, "useAsyncStorage", {
+  enumerable: true,
+  get: function get() {
+    return _hooks.useAsyncStorage;
+  }
+});
+var _AsyncStorage = _interopRequireDefault(require("./AsyncStorage"));
+var _hooks = require("./hooks");
+function _interopRequireDefault(obj) {
+  return obj && obj.__esModule ? obj : {
+    "default": obj
+  };
+}
+var _default = _AsyncStorage["default"];
+exports["default"] = _default;
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7O0FBQUE7QUFFQTs7Ozs7O2VBSWVBLHdCIiwibmFtZXMiOlsiQXN5bmNTdG9yYWdlIl0sInNvdXJjZXMiOlsiaW5kZXgudHMiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IEFzeW5jU3RvcmFnZSBmcm9tICcuL0FzeW5jU3RvcmFnZSc7XG5cbmV4cG9ydCB7IHVzZUFzeW5jU3RvcmFnZSB9IGZyb20gJy4vaG9va3MnO1xuXG5leHBvcnQgdHlwZSB7IEFzeW5jU3RvcmFnZVN0YXRpYyB9IGZyb20gJy4vdHlwZXMnO1xuXG5leHBvcnQgZGVmYXVsdCBBc3luY1N0b3JhZ2U7XG4iXX0=
